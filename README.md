@@ -1,6 +1,12 @@
 # tessdata
 tessdata
 
+YOUTUBE - making tesseract data
+
+https://youtu.be/dhgL_cLnVBo
+
+
+
 Location :
 /usr/share/tessract-ocr/
 
